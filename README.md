@@ -2,8 +2,9 @@
 
 ## Files Fall 23 Group D implemented
 - Model.py
-- Motor.py
 - All database files
 - All testing files
 
 ## Install Notes
+-Download as a zip file to a USB
+-Upload it to the lab computer which is offline
