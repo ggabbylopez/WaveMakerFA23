@@ -6,5 +6,5 @@
 - All testing files
 
 ## Install Notes
--Download as a zip file to a USB
--Upload it to the lab computer which is offline
+- Download as a zip file to a USB
+- Upload it to the lab computer which is offline
